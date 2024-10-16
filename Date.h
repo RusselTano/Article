@@ -1,10 +1,12 @@
 // Programmeur: Dylane 
-// Date: 8 octobre 2024
-// Bût: Classe Personne
+// Date: 16 octobre 2024
+// Bût: Classe Article
 
 #pragma once
+
 #include <iostream>
 #include <ctime>
+
 using namespace std;
 
 class Date

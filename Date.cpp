@@ -27,7 +27,7 @@ Date::Date()
 
 Date::~Date()
 {
-	cout << "\nBOOM! - Date\n";
+	//cout << "\nBOOM! - Date\n";
 }
 
 int Date::getJour() const
